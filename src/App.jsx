@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <section class="todoapp">
+      <section className="todoapp">
         <Header />
         <Content />
       </section>
